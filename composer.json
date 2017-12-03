@@ -1,0 +1,5 @@
+{
+    "require": {
+        "rx/child-process": "^1.0"
+    }
+}
